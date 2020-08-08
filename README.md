@@ -7,7 +7,7 @@ I will be not responsible If u got gbanned because of violating the gpl
 So that's why I'm suggesting u to use official repo. fell free to give gban to [noob gpl volunteer](t.me/ItsAviral) id 636314540 .
 
 # Deploy
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Nitin221/Lucy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kumar451/love"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 
 ## Thanks to
